@@ -26,13 +26,13 @@
 #### 2. 📓 Сайт с записями
 Веб-приложение, позволяющее создавать, хранить и просматривать текстовые заметки.
 * **Стек:** HTML, CSS, JS.
-* [Посмотреть код →] (https://github.com/ArakelanArtur/FRONTEND.git)
+* [Посмотреть код](https://github.com/ArakelanArtur/FRONTEND.git).
 
 #### 3. 🍕 Мобильное приложение «Заказ меню»
 Андроид-приложение для выбора блюд и формирования списка заказов.
 * **Стек:** Kotlin, Android Studio.
 * **Особенности:** Удобный интерфейс, работа со списками данных.
-* [Посмотреть код →](https://github.com/ArakelanArtur/Android-Studio.git)
+* [Посмотреть код](https://github.com/ArakelanArtur/Android-Studio.git)
 
 ---
 
