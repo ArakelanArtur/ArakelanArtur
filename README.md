@@ -22,7 +22,7 @@
 * **Стек:** HTML, CSS, JavaScript.
 * [Посмотреть код](https://github.com/ArakelanArtur/web-site-anketa.git)
 
-#### 2. 📓 Сайт с записями
+#### 2. 📓 Сайт для управления бизнесом 
 Веб-приложение, позволяющее создавать, хранить и просматривать текстовые заметки.
 * **Стек:** HTML, CSS, JS.
 * [Посмотреть код](https://github.com/ArakelanArtur/FRONTEND.git)
