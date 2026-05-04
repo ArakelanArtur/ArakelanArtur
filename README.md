@@ -35,9 +35,6 @@
 
 ---
 
-
----
-
 ### 📫 Как со мной связаться:
 * **Telegram:** @ArturArakelan
 * **Email:** artur.arakelan.nvrsk@gmail.com
