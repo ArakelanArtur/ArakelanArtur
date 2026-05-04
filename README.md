@@ -1,43 +1,48 @@
-Привет! Я  👋
-Я начинающий разработчик, специализирующийся на создании приложений и веб-интерфейсов. Мне нравится превращать сложные задачи в понятный и эффективный код.
+Обо мне 
+
+Я - стьюдент разработчик, работающий с веб-технологиями и мобильными приложениями. Постоянно учусь новому и практикуюсь в создании удобных инструментов.
+
+---
 
 ### 🛠 Мой стек технологий:
-| Технология | Навыки и инструменты |
 
-
-| Технология | Навыки и инструменты |
+| Технология | Инструменты и навыки |
 | :--- | :--- |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/> | **HTML5** — Семантическая верстка, формы, структура контента. |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/> | **CSS3** — Стилизация, Flexbox, Grid, анимации и адаптивность. |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> | **JavaScript** — Интерактивность, работа с DOM, базовые скрипты. |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/> | **C#** — Разработка логики приложений, основы ООП. |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/> | **Visual Studio** — Основная среда для разработки на .NET. |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/> | **VS Code** — Редактор для веб-разработки и быстрой правки кода. |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="35"/> | **Frontend** — HTML5 и CSS3 (Верстка адаптивных интерфейсов) |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35"/> | **JavaScript** — Интерактивность и логика на стороне клиента |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="35"/> | **C#** — Разработка приложений на языке C# в среде .NET |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="35"/> | **Kotlin** — Создание мобильных приложений под Android |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="35"/> | **Инструменты** — Visual Studio, VS Code, Android Studio |
 
-JavaScript (Интерактив на стороне клиента)
+---
 
-Веб-технологии:
+### 🚀 Мои проекты:
 
-HTML5 & CSS3 (Семантическая верстка, адаптивный дизайн)
+#### 1. 📝 Сайт-анкета
+Проект для сбора и обработки данных пользователя через веб-формы.
+* **Стек:** HTML, CSS, JavaScript.
+* [Посмотреть код →](https://github.com/ТВОЙ_НИК/название-репозитория)
 
-Инструменты разработки:
+#### 2. 📓 Сайт с записями
+Веб-приложение, позволяющее создавать, хранить и просматривать текстовые заметки.
+* **Стек:** HTML, CSS, JS.
+* [Посмотреть код →](https://github.com/ТВОЙ_НИК/название-репозитория)
 
-Visual Studio (Основная IDE для тяжелых проектов на C#)
+#### 3. 🍕 Мобильное приложение «Заказ меню»
+Андроид-приложение для выбора блюд и формирования списка заказов.
+* **Стек:** Kotlin, Android Studio.
+* **Особенности:** Удобный интерфейс, работа со списками данных.
+* [Посмотреть код →](https://github.com/ТВОЙ_НИК/название-репозитория)
 
-Visual Studio Code (Легкий и быстрый редактор для веба и скриптов)
+---
 
-🚀 Мои основные навыки:
-[x] Разработка десктопных или консольных приложений на C#.
+### 📊 Моя статистика GitHub:
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
 
-[x] Создание современных и адаптивных лендингов на HTML/CSS.
+---
 
-[x] Написание скриптов для оживления страниц на JS.
-
-[x] Работа с системой контроля версий Git.
-
-📫 Как со мной связаться:
-Email: artur.arakelan.nvrsk@gmail.com
-
-Telegram: ArturArakelan
-
-
+### 📫 Как со мной связаться:
+* **Telegram:** [@твой_никнейм]
+* **Email:** [твой_email@example.com]
