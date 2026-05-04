@@ -3,6 +3,9 @@
 
 ### 🛠 Мой стек технологий:
 | Технология | Навыки и инструменты |
+
+
+| Технология | Навыки и инструменты |
 | :--- | :--- |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/> | **HTML5** — Семантическая верстка, формы, структура контента. |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/> | **CSS3** — Стилизация, Flexbox, Grid, анимации и адаптивность. |
@@ -10,7 +13,6 @@
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/> | **C#** — Разработка логики приложений, основы ООП. |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/> | **Visual Studio** — Основная среда для разработки на .NET. |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/> | **VS Code** — Редактор для веб-разработки и быстрой правки кода. |
-Языки программирования: * C# (Разработка логики, работа с .NET)
 
 JavaScript (Интерактив на стороне клиента)
 
