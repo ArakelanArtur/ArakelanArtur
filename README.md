@@ -38,7 +38,7 @@
 * **Стек** Visual Studio Code, JS, HTML, CSS.
 * **Осбоености** Удобный интерфейс, раюотают без интернета.
 * [Посмотреть код](https://github.com/ArakelanArtur/Chess.git)
-* Посмотреть сайт(https://chess-seven-orcin.vercel.app)
+* [Посмотреть сайт](https://chess-seven-orcin.vercel.app)
 
 ---
 
